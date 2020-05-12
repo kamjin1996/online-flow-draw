@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2020-05-12T03:03:17.727Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="9-d5r7K5EZzNXRcgF-5l" version="13.0.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-12T03:04:26.670Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="xKWJQ-RxdrP3NSd1v566" version="13.0.9" type="github">
   <diagram id="aVMis7E-U1IV79bnSuUi" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Ei1FDy5gru2LnIl25OD1-4" value="订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="260" width="120" height="80" as="geometry" />
+          <mxGeometry x="610" y="240" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ei1FDy5gru2LnIl25OD1-9" value="收货人信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="540" width="120" height="50" as="geometry" />
+          <mxGeometry x="660" y="630" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ei1FDy5gru2LnIl25OD1-10" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="Ei1FDy5gru2LnIl25OD1-4" target="Ei1FDy5gru2LnIl25OD1-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -17,13 +17,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ei1FDy5gru2LnIl25OD1-12" value="发货记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="970" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ei1FDy5gru2LnIl25OD1-13" value="物流信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="757" width="130" height="70" as="geometry" />
+          <mxGeometry x="810" y="615" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ei1FDy5gru2LnIl25OD1-14" value="交易记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="340" width="120" height="50" as="geometry" />
+          <mxGeometry x="1020" y="460" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ei1FDy5gru2LnIl25OD1-15" value="商品快照" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="340" width="88" height="70" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="280" y="730" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ei1FDy5gru2LnIl25OD1-25" value="优惠券" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ei1FDy5gru2LnIl25OD1-27" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="Ei1FDy5gru2LnIl25OD1-4" target="Ei1FDy5gru2LnIl25OD1-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -43,7 +43,7 @@
             <mxPoint x="630" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ei1FDy5gru2LnIl25OD1-28" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="Ei1FDy5gru2LnIl25OD1-12" target="Ei1FDy5gru2LnIl25OD1-13">
+        <mxCell id="Ei1FDy5gru2LnIl25OD1-28" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="Ei1FDy5gru2LnIl25OD1-4" target="Ei1FDy5gru2LnIl25OD1-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="420" as="sourcePoint" />
             <mxPoint x="630" y="370" as="targetPoint" />
